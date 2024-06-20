@@ -25,3 +25,4 @@ app.get('/', async (c) => {
 
 export default app
 npm run deploy
+https://projects.100xdevs.com/tracks/eooSv7lnuwBO6wl9YA5w/serverless-11
